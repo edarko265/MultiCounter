@@ -35,7 +35,7 @@ A modern Android app built using **Jetpack Compose** that allows users to manage
 1. Clone the repository:
 
 bash
-``[`git clone https://github.com/edarko265/Multi_Counter.git](https://github.com/edarko265/MultiCounter.git)
+```[git clone https://github.com/edarko265/Multi_Counter.git](https://github.com/edarko265/MultiCounter.git)
 ```
 
 2. Open in Android Studio
